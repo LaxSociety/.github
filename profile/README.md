@@ -10,17 +10,14 @@
 |---|---|---|
 | **mkTV** | A web browser built for the TV remote | [Website](https://mktvhub.github.io) · [GitHub](https://github.com/MKTVHub/mkTV) · [Download](https://github.com/MKTVHub/mkTV/releases/latest/download/mkTV.apk) |
 | **JobCairn** | A desktop job search app that works with your Claude plan | [Website](https://jobcairn.github.io) · [GitHub](https://github.com/JobCairn/jobcairn) · [Download](https://github.com/JobCairn/jobcairn/releases/latest) |
+| **Gymnom** | Food, workouts and AI coaching in one plan | [Website](https://gymnom.com) · [Download](https://apps.apple.com/app/id6806239096) · [Google Play](https://play.google.com/store/apps/details?id=com.gymnom.app) |
+| **XOtale** | A private gift website for someone you love | [Website](https://xotale.com) |
 | **Keepwatch** | Keep your Mac awake while AI agents run | [Website](https://agentskilldeck.github.io/keepwatch/) · [GitHub](https://github.com/AgentSkillDeck/keepwatch) · [Download](https://github.com/AgentSkillDeck/keepwatch/releases/latest) |
 | **AgentSkillDeck Skills** | Open plugins and skills for Claude Code and other coding agents | [Website](https://agentskilldeck.github.io) · [GitHub](https://github.com/AgentSkillDeck/skills) |
 
-## Live products
+## More
 
 - **VisaRadar**: Official Australian skilled migration numbers and news in one place · [Website](https://visaradar-au.github.io/visaradar/) · [GitHub](https://github.com/visaradar-au/visaradar)
-- **Gymnom**: Food, workouts and AI coaching in one plan · [Website](https://gymnom.com) · [Download](https://apps.apple.com/app/id6806239096)
-- **XOtale**: A private gift website for someone you love · [Website](https://xotale.com)
-
-## Games
-
 - **Ludo Raja**: Real-time multiplayer Ludo for friends on the same WiFi · [Website](https://ludo-raja.onrender.com) · [GitHub](https://github.com/JKL404/Ludo-Raja)
 
 ## Earlier projects
@@ -41,13 +38,13 @@
 |---|---|
 | [MKTVHub](https://github.com/MKTVHub) | Apps for smart TVs, home of mkTV |
 | [JobCairn](https://github.com/JobCairn) | Local-first job search app built around Claude |
-| [AgentSkillDeck](https://github.com/AgentSkillDeck) | Plugins and skills for coding agents, Keepwatch |
-| [visaradar-au](https://github.com/visaradar-au) | Australian skilled-migration data |
 | [Gymnom](https://gymnom.com) | Food, workouts and AI coaching |
 | [XOtale](https://xotale.com) | Private storybook gift websites |
+| [AgentSkillDeck](https://github.com/AgentSkillDeck) | Plugins and skills for coding agents, Keepwatch |
+| [visaradar-au](https://github.com/visaradar-au) | Australian skilled-migration data |
 
 ## Watch the builds
 
 New builds, launches and walkthroughs on YouTube: **[@laxsociety](https://www.youtube.com/@laxsociety)**.
 
-<sub>Most projects are free and open source. Fork them, make them yours.</sub>
+<sub>Most projects are free and open source; Gymnom and XOtale are paid products. Fork the open ones, make them yours.</sub>
