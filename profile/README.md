@@ -1,6 +1,6 @@
 # Lax Society
 
-**Open-source apps, built in public** by Laxman Khatri (Hacker Laxu): TV apps, Mac apps, AI agents, web & data tools and games.
+**Open-source apps, built in public** by [JKL404](https://github.com/JKL404): TV apps, Mac apps, AI agents, web & data tools and games.
 
 [🌐 Website](https://laxsociety.github.io) · [▶️ YouTube](https://www.youtube.com/@laxsociety) · [All projects](https://laxsociety.github.io/#projects)
 
