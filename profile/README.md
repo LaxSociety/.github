@@ -2,7 +2,7 @@
 
 **AI engineering and open-source apps, built in public** by [JKL404](https://github.com/JKL404): LLMs, AI agents and robotics, plus TV apps, Mac apps, web & data tools and games.
 
-[🌐 Website](https://laxsociety.github.io) · [▶️ YouTube](https://www.youtube.com/@laxsociety) · [All projects](https://laxsociety.github.io/#projects)
+[🌐 Website](https://laxsociety.github.io) · [▶️ YouTube](https://www.youtube.com/@laxsociety) · [𝕏 @lax_society](https://x.com/lax_society) · [All projects](https://laxsociety.github.io/#projects)
 
 ## ⭐ New and featured
 
