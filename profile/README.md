@@ -51,4 +51,7 @@ LLM and AI agent builds, and robotics experiments. Follow along on [YouTube](htt
 
 New builds, launches and walkthroughs on YouTube: **[@laxsociety](https://www.youtube.com/@laxsociety)**.
 
+- ▶ [mkTV: a free web browser built for your TV remote](https://youtu.be/M9bIm_y6QFU)
+- ▶ [Gymnom: fitness and nutrition with a live AI coach](https://youtu.be/u9yfQ3Iyo68)
+
 <sub>Most projects are free and open source; Gymnom and XOtale are paid products. Fork the open ones, make them yours.</sub>
