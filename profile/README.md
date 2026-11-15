@@ -1,6 +1,6 @@
 # Lax Society
 
-**Open-source apps, built in public** by [JKL404](https://github.com/JKL404): TV apps, Mac apps, AI agents, web & data tools and games.
+**AI engineering and open-source apps, built in public** by [JKL404](https://github.com/JKL404): LLMs, AI agents and robotics, plus TV apps, Mac apps, web & data tools and games.
 
 [🌐 Website](https://laxsociety.github.io) · [▶️ YouTube](https://www.youtube.com/@laxsociety) · [All projects](https://laxsociety.github.io/#projects)
 
@@ -19,6 +19,10 @@
 
 - **VisaRadar**: Official Australian skilled migration numbers and news in one place · [Website](https://visaradar-au.github.io/visaradar/) · [GitHub](https://github.com/visaradar-au/visaradar)
 - **Ludo Raja**: Real-time multiplayer Ludo for friends on the same WiFi · [Website](https://ludo-raja.onrender.com) · [GitHub](https://github.com/JKL404/Ludo-Raja)
+
+## Coming up
+
+LLM and AI agent builds, and robotics experiments. Follow along on [YouTube](https://www.youtube.com/@laxsociety).
 
 ## Earlier projects
 
